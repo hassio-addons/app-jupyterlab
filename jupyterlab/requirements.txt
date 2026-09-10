@@ -15,6 +15,6 @@ pandas-datareader==0.11.1
 pandas==3.0.5
 psycopg2==2.9.13
 python-dateutil==2.9.0.post0
-scrapy==2.18.0
+scrapy==2.19.0
 seaborn==0.13.2
 SQLAlchemy==2.0.52
