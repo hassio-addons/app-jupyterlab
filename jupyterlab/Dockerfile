@@ -25,7 +25,7 @@ RUN \
         dirmngr=2.4.7-21+deb13u1+b5 \
         git=1:2.47.3-0+deb13u1 \
         gpg-agent=2.4.7-21+deb13u1+b5 \
-        gpg=2.4.7-21+deb13u1+b4 \
+        gpg=2.4.7-21+deb13u1+b5 \
         libffi-dev=3.4.8-2 \
         libffi8=3.4.8-2 \
         libfreetype-dev=2.13.3+dfsg-1+deb13u1 \
