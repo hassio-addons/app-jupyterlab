@@ -22,7 +22,7 @@ RUN \
     && apt-get update \
     && apt-get install -y --no-install-recommends \
         build-essential=12.12 \
-        dirmngr=2.4.7-21+deb13u1+b4 \
+        dirmngr=2.4.7-21+deb13u1+b5 \
         git=1:2.47.3-0+deb13u1 \
         gpg-agent=2.4.7-21+deb13u1+b4 \
         gpg=2.4.7-21+deb13u1+b4 \
