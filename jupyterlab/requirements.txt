@@ -1,5 +1,5 @@
 beautifulsoup4==4.15.0
-bokeh==3.10.0
+bokeh==3.10.1
 geopy==2.5.0
 HASS-data-detective==3.2
 influxdb==5.3.2
