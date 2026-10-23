@@ -1,4 +1,4 @@
-ARG BUILD_FROM=ghcr.io/hassio-addons/debian-base:9.5.0
+ARG BUILD_FROM=ghcr.io/hassio-addons/debian-base:9.5.1
 # hadolint ignore=DL3006
 FROM ${BUILD_FROM}
 
@@ -39,7 +39,7 @@ RUN \
         libpng16-16t64=1.6.48-1+deb13u5 \
         libpq-dev=17.11-0+deb13u1 \
         libpq5=17.11-0+deb13u1 \
-        libssl-dev=3.5.7-1~deb13u2 \
+        libssl-dev=3.5.7-1~deb13u3 \
         libtiff-dev=4.7.0-3+deb13u3 \
         libtiff6=4.7.0-3+deb13u3 \
         libxml2-dev=2.12.7+dfsg+really2.9.14-2.1+deb13u3 \
@@ -48,7 +48,7 @@ RUN \
         libxslt1.1=1.1.35-1.2+deb13u3 \
         libzmq3-dev=4.3.5-1+b3 \
         libzmq5=4.3.5-1+b3 \
-        nginx=1.26.3-3+deb13u9 \
+        nginx=1.26.3-3+deb13u10 \
         pandoc=3.1.11.1+ds-2 \
         pkg-config=1.8.1-4 \
         python3-dev=3.13.5-1 \
