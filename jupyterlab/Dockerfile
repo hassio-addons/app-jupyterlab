@@ -53,7 +53,7 @@ RUN \
         pkg-config=1.8.1-4 \
         python3-dev=3.13.5-1 \
         python3-minimal=3.13.5-1 \
-        zlib1g-dev=1:1.3.dfsg+really1.3.1-1+b1 \
+        zlib1g-dev=1:1.3.dfsg+really1.3.1-1+deb13u1 \
     \
     && mkdir -p /etc/apt/keyrings \
     && curl -fsSL https://deb.nodesource.com/gpgkey/nodesource-repo.gpg.key \
