@@ -29,7 +29,7 @@ RUN \
         libffi-dev=3.4.8-2 \
         libffi8=3.4.8-2 \
         libfreetype-dev=2.13.3+dfsg-1+deb13u2 \
-        libfreetype6=2.13.3+dfsg-1+deb13u1 \
+        libfreetype6=2.13.3+dfsg-1+deb13u2 \
         libjpeg62-turbo-dev=1:2.1.5-4 \
         libjpeg62-turbo=1:2.1.5-4 \
         libmariadb-dev=1:11.8.9+ds-0+deb13u1 \
